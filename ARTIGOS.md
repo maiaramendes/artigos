@@ -179,6 +179,12 @@ Cursos direto da faculdade norte-americana.
 
 <a href="http://blog.ultimatephp.com.br/sistema-de-cadastro-php-mysql-pdo/">Sistema de Cadastro com PHP e MySQL Usando PDO</a> <br>
 
+<hr>
+
+<a href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">Rocketseat</a> <br>
+Famoso canal do Youtube com MUITAS video-aulas, podcasts e tutoriais. 
+
+
 
 
 
