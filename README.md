@@ -1,5 +1,13 @@
 ## Sites para aprender a programar
 
+```
+########## APRENDA A PROGRAMAR COM ALGUNS SITES ONLINE ###########
+## NEM TODOS OS SITES SÃO GRATUITOS E NEM TODOS TEM CERTIFICADO ##
+######### ALGUNS LINKS APRESENTAM TUTORIAIS EM INGLÊS! ###########
+################### README AINDA EM CONSTRUÇÃO... ################
+
+```
+
 <a href="https://www.udemy.com/">Udemy</a> <br>
 A Udemy possui muitos cursos em diversas áreas porém pagos, sempre tem promoções e vale muito a pena!
 
@@ -115,11 +123,6 @@ Curso gratuito somente no primeiro mês. Totalmente em inglês.
 <hr>
 
 <a href="https://www.codecademy.com/">CodeAcademy</a> <br>
-
-<hr>
-
-<a href="https://www.codewars.com/">CodeWars </a> <br>
-É pra quem já sabe e quer melhorar o conceito na programação, desafios diários com ranking.
 
 <hr>
 
